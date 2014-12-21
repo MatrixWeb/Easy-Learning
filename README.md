@@ -11,8 +11,10 @@
 我们希望更多的人能加入进来， 一起分享学习过程中的点滴。。。
 
 ## Version & Author
-Easy-Learning Beta, released on 8 December 2014.  
-Maintain by [Wine93] and [Lisz].
+Maintain by [Wine93] and [Lisz].  
+
+## Version  
+Easy-Learning Beta, released on 8 December 2014.   
 
 ## Table of Contents
 * [Programming Languge](#python)  
