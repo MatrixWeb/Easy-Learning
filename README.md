@@ -94,7 +94,7 @@ Comement： anything;                  angthing you want to say about this share
 **Share：** [正则表达式30分钟入门教程]  
 **Share：** [正则表达式在线测试器]  
 **Mr.Lei：** [Lisz]  
-**Comments：**  
+**Comments：** 短小精悍，平时用到还可以当文档查
 
 [Back to TOC](#table-of-contents)
 
