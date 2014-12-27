@@ -115,23 +115,23 @@ Comement： anything;                  angthing you want to say about this share
 
 ## Hadoop
 `Top1`
-**Share：** [Hadoop学习路线图]
-**Mr.Lei：** [Lisz]
-**Comment：** 一个Hadoop 的学习路线图 , 介绍了Hadoop 家族的很多东西 (虽然博主貌似比较忙，有些没写完的样子) 
+**Share：** [Hadoop学习路线图]  
+**Mr.Lei：** [Lisz]  
+**Comment：** 一个Hadoop 的学习路线图 , 介绍了Hadoop 家族的很多东西 (虽然博主貌似比较忙，有些没写完的样子)   
 
 [Back to TOC](#table-of-contents)
 
 ## Spark
 `Top1`
-**Share：** [Spark RDD API Examples]
-**Mr.Lei：** [Lisz]
-**Comment：** 对于RDD的每个API都展示了例子，帮助你理解这些API的作用
+**Share：** [Spark RDD API Examples]  
+**Mr.Lei：** [Lisz]  
+**Comment：** 对于RDD的每个API都展示了例子，帮助你理解这些API的作用  
 
 `Top2`
-**Share：** [Spark RDD 论文英文原版]
-**Share：** [Spark RDD 论文中文版]
-**Mr.Lei：** [Lisz]
-**Comment：** 要学习RDD,官方的论文当然是很好的材料，中文，英文，总有一个适合你
+**Share：** [Spark RDD 论文英文原版]  
+**Share：** [Spark RDD 论文中文版]  
+**Mr.Lei：** [Lisz]  
+**Comment：** 要学习RDD,官方的论文当然是很好的材料，中文，英文，总有一个适合你  
 
 [Back to TOC](#table-of-contents)
 
