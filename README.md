@@ -44,7 +44,9 @@ Comement： anything;                  angthing you want to say about this share
     * [Mysql](#mysql)
     * [Redis](#redis)  
 * [System](#github)
-    * [Github](#github)  
+    * [Github](#github)
+    * [Hadoop](#hadoop)
+    * [Spark](#spark)  
 * [Others](#markdown)  
     * [Markdown](#markdown)
     * [Regex](#regex)
@@ -111,6 +113,28 @@ Comement： anything;                  angthing you want to say about this share
 
 [Back to TOC](#table-of-contents)  
 
+## Hadoop
+`Top1`
+**Share：** [Hadoop学习路线图]
+**Mr.Lei：** [Lisz]
+**Comment：** 一个Hadoop 的学习路线图 , 介绍了Hadoop 家族的很多东西 (虽然博主貌似比较忙，有些没写完的样子) 
+
+[Back to TOC](#table-of-contents)
+
+## Spark
+`Top1`
+**Share：** [Spark RDD API Examples]
+**Mr.Lei：** [Lisz]
+**Comment：** 对于RDD的每个API都展示了例子，帮助你理解这些API的作用
+
+`Top2`
+**Share：** [Spark RDD 论文英文原版]
+**Share：** [Spark RDD 论文中文版]
+**Mr.Lei：** [Lisz]
+**Comment：** 要学习RDD,官方的论文当然是很好的材料，中文，英文，总有一个适合你
+
+[Back to TOC](#table-of-contents)
+
 ## Onlie Charting   
 
 `Top1`  
@@ -148,8 +172,13 @@ Comement： anything;                  angthing you want to say about this share
 
 [在线图表制作]: http://charts.udpwork.com/
 
+[Hadoop学习路线图]: http://blog.fens.me/hadoop-family-roadmap/
 
+[Spark RDD API Examples]: http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html#filter
 
+[Spark RDD 论文英文原版]: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.pdf
+
+[Spark RDD 论文中文版]: http://shiyanjun.cn/archives/744.html
 
 
 
