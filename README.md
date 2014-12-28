@@ -15,14 +15,17 @@
 
 
 ## Author  
-[Wine93] from Upyun  
-[Lisz] from Meituan  
-[MatrixWeb] from Tencent 
+**[Wine93]** from **[Upyun]**  
+**[Lisz]** from **[Meituan]**    
+**[MatrixWeb]** from **[Tencent]**   
+  　　　　  
+  　　　　   
+![upyun_logo]　　![meituan_logo]　　![tencnet_logo]
 
 
 ## Version  
-Beta, released on 8 December 2014.   
-Version 0.1, released on 25 December 2014.   
+Beta,  　  released on 8 December 2014.   
+v0.1.0,　released on 25 December 2014.   
 
 
 ## Synopsis  
@@ -145,8 +148,16 @@ Comement： anything;                  angthing you want to say about this share
 
 [leifeng]: https://raw.githubusercontent.com/Wine93/Wine93.github.io/master/_pictures/Leifeng.jpg
 [Wine93]: https://github.com/Wine93 
-[Lisz]: https://github.com/lishaozhe01  
+[Lisz]: https://github.com/lishaozhe01 
 [MatrixWeb]: https://github.com/MatrixWeb
+
+[Upyun]: https://www.upyun.com/index.html
+[Meituan]: http://www.meituan.com/index/changecity/initiative?mtt=1.index%2Ffloor.0.0.i482zh
+[Tencent]: http://www.qq.com
+
+[upyun_logo]: https://raw.githubusercontent.com/Wine93/Wine93.github.io/master/_pictures/Upyun_logo.png
+[meituan_logo]: https://raw.githubusercontent.com/Wine93/Wine93.github.io/master/_pictures/Meituan_logo.jpg
+[tencnet_logo]: https://raw.githubusercontent.com/Wine93/Wine93.github.io/master/_pictures/Tencnet_logo.jpg
 
 [廖雪峰的官方网站-Python教程]: http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000
 
